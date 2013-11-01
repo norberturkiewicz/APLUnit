@@ -1,5 +1,8 @@
 ﻿:NameSpace UT
 
+    ⎕IO←1
+    ⎕ML←1
+
     sac ← 0
     expect ← ⍬
     exception ← ⍬
